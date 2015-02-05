@@ -77,7 +77,6 @@ OBJECT Table 3 Payment Terms
     END;
 
     BEGIN
-       Test Github
     END.
   }
 }
