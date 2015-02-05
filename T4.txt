@@ -551,6 +551,7 @@ OBJECT Table 4 Currency
     END;
 
     BEGIN
+	another test line
     END.
   }
 }
